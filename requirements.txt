@@ -3,21 +3,15 @@ Automat==20.2.0
 bcrypt==3.2.2
 certifi==2021.10.8
 cffi==1.15.0
-click @ file:///tmp/build/80754af9/click_1646056591685/work
 constantly==15.1.0
-Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
 Flask-Cors==3.0.10
 Flask-Script==2.0.6
 Flask-Twisted==0.1.2
 greenlet==1.1.2
 hyperlink==21.0.0
 idna==3.3
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1648562407465/work
 incremental==21.3.0
 iniconfig==1.1.1
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
-MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621528142364/work
 mysql-connector-python==8.0.29
 observable==1.0.3
 packaging==21.3
@@ -32,7 +26,4 @@ six==1.16.0
 SQLAlchemy==1.4.37
 tomli==2.0.1
 Twisted==22.4.0
-typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
-zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.interface==5.4.0
