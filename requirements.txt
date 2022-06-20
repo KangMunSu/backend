@@ -4,6 +4,7 @@ bcrypt==3.2.2
 certifi==2021.10.8
 cffi==1.15.0
 constantly==15.1.0
+Flask==1.1.2
 Flask-Cors==3.0.10
 Flask-Script==2.0.6
 Flask-Twisted==0.1.2
